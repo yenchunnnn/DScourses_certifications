@@ -6,7 +6,7 @@ A repository contains the certifications from the online data science courses.
 
 ### Data Scientist Professional with R
 
-✅ Complete DS track with R: [Data Scientist Professional with R](datacamp/Cleaning%20Data%20in%20PostgreSQL%20Databases.pdf)
+✅ Complete DS track with R: [Data Scientist Professional with R](datacamp/Data%20Scientist%20Professional%20with%20R.pdf)
 
 1. Introduction to R
 2. Intermediate R
